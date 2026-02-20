@@ -11,7 +11,7 @@ Implementação de:
   - Fita de saída dos tokens que foram reconhecidos
 
   - Tabela de símbolos
-  - 
+    
 ## Uso
 
   - Se quiser testar com outros tokens/regras, altere o arquivo "entrada_automato.txt" para construir o autômato AFD/AFND
