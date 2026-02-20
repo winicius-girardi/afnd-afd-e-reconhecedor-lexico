@@ -1,10 +1,17 @@
 # Automato
-  - Construção autômato AFND
-  - Construção autômato AFD
-  - Analisador léxico
-  - Model.Fita de saída dos tokens que foram reconhecidos
-  - Tabela de símbolos 
+Projeto das disciplinas de Linguagens Formais e Autômatos(LFA) e Compiladores.
 
+Implementação de:
+  - Autômato finito não-deterministico (AFND)
+
+  - Autômato finito deterministico (AFD)
+
+  - Analisador léxico
+
+  - Fita de saída dos tokens que foram reconhecidos
+
+  - Tabela de símbolos
+  - 
 ## Uso
 
   - Se quiser testar com outros tokens/regras, altere o arquivo "entrada_automato.txt" para construir o autômato AFD/AFND
